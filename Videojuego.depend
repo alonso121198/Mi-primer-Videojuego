@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1582171858 source:c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\main2.cpp
+	<iostream>
+	<stdlib.h>
+	"Player.h"
+	"GameMap.h"
+	"GameMap.h"
+
+1582168797 source:c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1582168796 c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\include\player.h
+
+1582168797 c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\include\mapcell.h
+
+1582171211 source:c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\src\mapcell.cpp
+	"MapCell.h"
+
+1582172389 c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\include\gamemap.h
+	"MapCell.h"
+
+1582171211 source:c:\users\usuario simple\documents\archivosc++(codeblocks)\videojuego\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
